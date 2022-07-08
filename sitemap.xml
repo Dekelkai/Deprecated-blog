@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>https://www.tangxk.cn/mypage/index.html</loc>
+    
+    <lastmod>2022-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tangxk.cn/2022/07/07/mypost/</loc>
+    
+    <lastmod>2022-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tangxk.cn/mypost/index.html</loc>
+    
+    <lastmod>2022-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tangxk.cn/%E6%88%91%E7%9A%84%E9%A1%B5%E9%9D%A2/index.html</loc>
     
     <lastmod>2022-07-07</lastmod>
